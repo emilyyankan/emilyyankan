@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi I'm Emily 👋
 
-<!--
-**emilyyankan/emilyyankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 SWE @ Penn State Class of 2025
 
-Here are some ideas to get you started:
+🛠️ 4+ years of technical experiences with a blend of:
+- Troubleshooting complex hardware/software issues
+- Frontend & backend development (Java, Python, C++, JavaScript)
+- Cloud infrastructure & distributed systems (AWS, Docker, Kubernetes, CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🈴 Certified iOS & MacOS Hardware repair
+
+☁️ 2x AWS Certified + Internship at Amazon Web Services
+
+## Learning:
+- Exploring cybersecurity through Google Cybersecurity Professional Certificate
+- Currently learning Swift & iOS development to build apps with SwiftUI  
+
+## Project Highlights
+- **RINA for Space (Capstone)** – Prototype networking system implemented in **Ada** that integrates RINA with CCSDS protocols to support delay-tolerant space communications.  
+- **ADHD Advisor Chatbot** – **Python, JavaScript, HTML/CSS, Flask** AI-powered chatbot that delivers tailored advice for ADHD management, sourcing credible information via Perplexity AI.  
+- **WellnessBuddy** – Android app developed in **Kotlin** that calls a weather API by zipcode to suggest personalized wellness activities based on local conditions.  
+
+📌 *Some projects remain private due to academic restrictions, proprietary code, or ongoing development.*
