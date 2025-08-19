@@ -5,12 +5,12 @@
 
 🛠️ 4+ years of technical experiences with a blend of:
 - Troubleshooting complex hardware/software issues
-- Frontend & backend development (Java, Python, C++, JavaScript)
+- Frontend & backend development (Java, Python, C++, C, JavaScript)
 - Cloud infrastructure & distributed systems (AWS, Docker, Kubernetes, CI/CD)
 
 🈴 Certified iOS & MacOS Hardware repair
 
-☁️ 2x AWS Certified + Internship at Amazon Web Services
+☁️ 2x AWS Certified
 
 ## Learning:
 - Exploring cybersecurity through Google Cybersecurity Professional Certificate
