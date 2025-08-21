@@ -7,6 +7,7 @@
 - Troubleshooting complex hardware/software issues
 - Frontend & backend development (Java, Python, C++, C, JavaScript)
 - Cloud infrastructure & distributed systems (AWS, Docker, Kubernetes, CI/CD)
+- Built RESTful microservices in Java Spring Boot, integrating with database + artifact storage, implementing validation, metadata persistence, and reactive programming (Project Reactor) for scalable backend services.
 
 🈴 Certified iOS & MacOS Hardware repair
 
